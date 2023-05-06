@@ -1,0 +1,1 @@
+This script is designed to train a deep learning model for sentiment analysis on movie reviews. The model classifies a given movie review as either positive or negative. The dataset used for this task is the IMDB movie reviews dataset.
